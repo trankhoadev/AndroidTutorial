@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/background"
     tools:context=".MainActivity">
+
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="195dp"
@@ -25,6 +26,7 @@
         android:text="Sign In"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="515dp" />
+
     <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
@@ -42,8 +44,8 @@
 
         android:gravity="center_horizontal"
         android:text="Upgrade Your Bussiness"
-        android:textSize="25sp"
         android:textColor="@color/purple_700"
+        android:textSize="25sp"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
