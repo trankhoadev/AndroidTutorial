@@ -110,7 +110,7 @@
         android:id="@+id/button2"
         android:layout_width="361dp"
         android:layout_height="60dp"
-        android:text="Gui"
+        android:text="Gửi"
         android:textSize="25sp"
         app:backgroundTint="#18a0fb"
         app:layout_constraintEnd_toEndOf="parent"
